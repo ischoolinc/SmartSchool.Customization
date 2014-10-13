@@ -68,6 +68,7 @@
     <Compile Include="ConfigurationCollection.cs" />
     <Compile Include="CourseHelper.cs" />
     <Compile Include="AccessHelper.cs" />
+    <Compile Include="Credit\CourseRecord_New.cs" />
     <Compile Include="StudentExtension\ExtensionFieldCollection.cs" />
     <Compile Include="FillEventArgs.cs" />
     <Compile Include="FillFieldEventArgs.cs" />
@@ -78,7 +79,7 @@
     <Compile Include="PreferenceCollection.cs" />
     <Compile Include="StudentExtension\SemesterHistory.cs" />
     <Compile Include="StudentExtension\SemesterMoralScoreInfo.cs" />
-    <Compile Include="StudentExtension\SemesterSubjectScoreInfo_New.cs" />
+    <Compile Include="Credit\SemesterSubjectScoreInfo_New.cs" />
     <Compile Include="SystemInformation.cs" />
     <Compile Include="SystemInformationProvider.cs" />
     <Compile Include="StudentAttendCourseRecord.cs" />
